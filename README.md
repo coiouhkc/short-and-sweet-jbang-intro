@@ -29,6 +29,8 @@ See https://docs.oracle.com/javase/9/jshell/toc.htm
 
 See https://github.com/holgerbrandl/kscript (based upon https://github.com/jbangdev/jbang)
 
+See https://www.groovy-lang.org + https://docs.groovy-lang.org/latest/html/documentation/grape.html 
+
 ---
 
 # JBang
