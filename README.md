@@ -54,3 +54,11 @@ TODO
 See https://gist.github.com/maxandersen/f077f1d356c42eeb395a8811d6152f3a
 
 ---
+
+# JBang 
+
+## Integration
+
+See https://www.jbang.dev/documentation/guide/latest/editing.html#ide-and-editor-support
+
+---
