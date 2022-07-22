@@ -37,7 +37,12 @@ See https://www.groovy-lang.org + https://docs.groovy-lang.org/latest/html/docum
 
 ## Basics demo
 
-TODO
+```
+jbang init hello.java
+jbang hello.java
+```
+
+See [examples/hello.java](examples/hello.java)
 
 ---
 
@@ -45,7 +50,7 @@ TODO
 
 ## Dependencies and options
 
-TODO
+See [examples/envlist.java](examples/envlist.java)
 
 ---
 
